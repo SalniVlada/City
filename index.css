@@ -41,6 +41,7 @@ body {
 	height: 300px;
 	background-image: url(./img/grd.png);
 	background-repeat: no-repeat;
+	background-size: cover;
 	bottom: -5px;
 
 }
